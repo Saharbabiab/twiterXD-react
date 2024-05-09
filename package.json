@@ -1,0 +1,20 @@
+{
+  "name": "react-native",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "App.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rneui/base": "^0.0.0-edge.2",
+    "@rneui/themed": "^0.0.0-edge.2",
+    "nodemon": "^3.1.0",
+    "socket.io": "^4.7.5",
+    "socket.io-client": "^4.7.5"
+  }
+}
